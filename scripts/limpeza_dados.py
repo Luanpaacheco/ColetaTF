@@ -5,9 +5,9 @@ pip install pandas odfpy
 import numpy as np
 import pandas as pd
 
-INPUT_PATH = "tx_rend_brasil_regioes_ufs_2025.ods"
+INPUT_PATH = "tx_rend_brasil_regioes_ufs_2024.ods"
 SHEET_NAME = "BRASIL_REGIOES_UFS_"
-OUTPUT_PATH = "tx_rendimento_em_publico.csv"
+OUTPUT_PATH = "tx_rendimento_em_publico_2024.csv"
 
 
 # ---------------------------------------------------------------------------
